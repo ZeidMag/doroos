@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a5134a0d508ad468228d8a53ffd0ef5",
+    "revision": "e6266d25be8a7f5a1059f9c686569955",
     "url": "/doroos/index.html"
   },
   {
