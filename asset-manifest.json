@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/doros/static/css/main.5f361e03.chunk.css",
-    "main.js": "/doros/static/js/main.929d8711.chunk.js",
-    "main.js.map": "/doros/static/js/main.929d8711.chunk.js.map",
+    "main.js": "/doros/static/js/main.4698d107.chunk.js",
+    "main.js.map": "/doros/static/js/main.4698d107.chunk.js.map",
     "runtime-main.js": "/doros/static/js/runtime-main.582fd374.js",
     "runtime-main.js.map": "/doros/static/js/runtime-main.582fd374.js.map",
     "static/js/2.d2f67164.chunk.js": "/doros/static/js/2.d2f67164.chunk.js",
     "static/js/2.d2f67164.chunk.js.map": "/doros/static/js/2.d2f67164.chunk.js.map",
     "index.html": "/doros/index.html",
-    "precache-manifest.f68da4403ba214496d3fed5e86a1c219.js": "/doros/precache-manifest.f68da4403ba214496d3fed5e86a1c219.js",
+    "precache-manifest.d64f106543201ad0d0bed2dd98c9adee.js": "/doros/precache-manifest.d64f106543201ad0d0bed2dd98c9adee.js",
     "service-worker.js": "/doros/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/doros/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.d2f67164.chunk.js.LICENSE.txt": "/doros/static/js/2.d2f67164.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.582fd374.js",
     "static/js/2.d2f67164.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.929d8711.chunk.js"
+    "static/js/main.4698d107.chunk.js"
   ]
 }
