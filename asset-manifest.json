@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/doroos/static/css/main.36497136.chunk.css",
-    "main.js": "/doroos/static/js/main.7997ae09.chunk.js",
-    "main.js.map": "/doroos/static/js/main.7997ae09.chunk.js.map",
+    "main.js": "/doroos/static/js/main.aa5b480d.chunk.js",
+    "main.js.map": "/doroos/static/js/main.aa5b480d.chunk.js.map",
     "runtime-main.js": "/doroos/static/js/runtime-main.5795e50e.js",
     "runtime-main.js.map": "/doroos/static/js/runtime-main.5795e50e.js.map",
     "static/css/2.36020323.chunk.css": "/doroos/static/css/2.36020323.chunk.css",
     "static/js/2.55869ce3.chunk.js": "/doroos/static/js/2.55869ce3.chunk.js",
     "static/js/2.55869ce3.chunk.js.map": "/doroos/static/js/2.55869ce3.chunk.js.map",
     "index.html": "/doroos/index.html",
-    "precache-manifest.758e9f472508894dd51d1b5a7e7462a9.js": "/doroos/precache-manifest.758e9f472508894dd51d1b5a7e7462a9.js",
+    "precache-manifest.04a9012ee6161547ec99b2183d6121b9.js": "/doroos/precache-manifest.04a9012ee6161547ec99b2183d6121b9.js",
     "service-worker.js": "/doroos/service-worker.js",
     "static/css/2.36020323.chunk.css.map": "/doroos/static/css/2.36020323.chunk.css.map",
     "static/css/main.36497136.chunk.css.map": "/doroos/static/css/main.36497136.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.36020323.chunk.css",
     "static/js/2.55869ce3.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.7997ae09.chunk.js"
+    "static/js/main.aa5b480d.chunk.js"
   ]
 }
