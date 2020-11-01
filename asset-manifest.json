@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/doroos/static/css/main.36497136.chunk.css",
-    "main.js": "/doroos/static/js/main.762755a9.chunk.js",
-    "main.js.map": "/doroos/static/js/main.762755a9.chunk.js.map",
-    "runtime-main.js": "/doroos/static/js/runtime-main.5795e50e.js",
-    "runtime-main.js.map": "/doroos/static/js/runtime-main.5795e50e.js.map",
-    "static/css/2.36020323.chunk.css": "/doroos/static/css/2.36020323.chunk.css",
-    "static/js/2.55869ce3.chunk.js": "/doroos/static/js/2.55869ce3.chunk.js",
-    "static/js/2.55869ce3.chunk.js.map": "/doroos/static/js/2.55869ce3.chunk.js.map",
-    "index.html": "/doroos/index.html",
-    "precache-manifest.997c187253645a4ca0e1607d181ace1a.js": "/doroos/precache-manifest.997c187253645a4ca0e1607d181ace1a.js",
-    "service-worker.js": "/doroos/service-worker.js",
-    "static/css/2.36020323.chunk.css.map": "/doroos/static/css/2.36020323.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/doroos/static/css/main.36497136.chunk.css.map",
-    "static/js/2.55869ce3.chunk.js.LICENSE.txt": "/doroos/static/js/2.55869ce3.chunk.js.LICENSE.txt",
-    "static/media/study.png": "/doroos/static/media/study.06373bbd.png"
+    "main.css": "/static/css/main.061eddf9.chunk.css",
+    "main.js": "/static/js/main.1c01e4bf.chunk.js",
+    "main.js.map": "/static/js/main.1c01e4bf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e525bff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e525bff.js.map",
+    "static/css/2.53159467.chunk.css": "/static/css/2.53159467.chunk.css",
+    "static/js/2.598b0a2a.chunk.js": "/static/js/2.598b0a2a.chunk.js",
+    "static/js/2.598b0a2a.chunk.js.map": "/static/js/2.598b0a2a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6250ccba21933518e263fc9970000930.js": "/precache-manifest.6250ccba21933518e263fc9970000930.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.53159467.chunk.css.map": "/static/css/2.53159467.chunk.css.map",
+    "static/css/main.061eddf9.chunk.css.map": "/static/css/main.061eddf9.chunk.css.map",
+    "static/js/2.598b0a2a.chunk.js.LICENSE.txt": "/static/js/2.598b0a2a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Cairo-Regular.81b37df3.ttf",
+    "static/media/CardItem.css": "/static/media/navbar-background.8caeb514.png",
+    "static/media/homepage-carousel-image-3.png": "/static/media/homepage-carousel-image-3.4a672186.png",
+    "static/media/logo.png": "/static/media/logo.f3150fb7.png",
+    "static/media/option1.jpg": "/static/media/option1.3071b150.jpg",
+    "static/media/option2.jpg": "/static/media/option2.2059206a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5795e50e.js",
-    "static/css/2.36020323.chunk.css",
-    "static/js/2.55869ce3.chunk.js",
-    "static/css/main.36497136.chunk.css",
-    "static/js/main.762755a9.chunk.js"
+    "static/js/runtime-main.9e525bff.js",
+    "static/css/2.53159467.chunk.css",
+    "static/js/2.598b0a2a.chunk.js",
+    "static/css/main.061eddf9.chunk.css",
+    "static/js/main.1c01e4bf.chunk.js"
   ]
 }
