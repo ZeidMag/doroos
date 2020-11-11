@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d44b4a60da8f38b18afd1d976e517763",
+    "revision": "65114c6abd90f71f56766f171e57cfec",
     "url": "/doroos/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/css/2.53159467.chunk.css"
   },
   {
-    "revision": "1ed61c4e4c78f087fbb7",
-    "url": "/doroos/static/css/main.0a78cab0.chunk.css"
+    "revision": "fcbe99a7e45354be5552",
+    "url": "/doroos/static/css/main.edde7507.chunk.css"
   },
   {
     "revision": "efa58f3e76355ee6b441",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/js/2.598b0a2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ed61c4e4c78f087fbb7",
-    "url": "/doroos/static/js/main.babe28f0.chunk.js"
+    "revision": "fcbe99a7e45354be5552",
+    "url": "/doroos/static/js/main.2180de18.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/Cairo-Regular.81b37df3.ttf"
   },
   {
-    "revision": "b81493d067bb3cf6ec9f4878ddfbd76b",
-    "url": "/doroos/static/media/card-2-background.b81493d0.png"
+    "revision": "921c8e46c8ada177c24460ba56f375ee",
+    "url": "/doroos/static/media/card-2-background.921c8e46.png"
   },
   {
     "revision": "11a13fc0148299301eb19396f744e79a",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/navbar-background.8caeb514.png"
   },
   {
-    "revision": "51e675c23f23657c4b2a8a42ee1f8f19",
-    "url": "/doroos/static/media/option1-resized.51e675c2.jpg"
+    "revision": "8cfd43c4dec2c8e74c4eea78ce30923c",
+    "url": "/doroos/static/media/option-1.8cfd43c4.png"
   },
   {
     "revision": "22a7da5a03de7df998bfab8d3cf9894b",
