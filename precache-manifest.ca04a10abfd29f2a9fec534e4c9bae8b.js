@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae8df5dab70b3d72e6f533fef27c43a4",
+    "revision": "d44b4a60da8f38b18afd1d976e517763",
     "url": "/doroos/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/css/2.53159467.chunk.css"
   },
   {
-    "revision": "aef7e20819879c6e9aac",
+    "revision": "1ed61c4e4c78f087fbb7",
     "url": "/doroos/static/css/main.0a78cab0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/js/2.598b0a2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aef7e20819879c6e9aac",
-    "url": "/doroos/static/js/main.1c01e4bf.chunk.js"
+    "revision": "1ed61c4e4c78f087fbb7",
+    "url": "/doroos/static/js/main.babe28f0.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/card-3-background.11a13fc0.png"
   },
   {
-    "revision": "4a67218628910e6b67e9edf848969e73",
-    "url": "/doroos/static/media/homepage-carousel-image-3.4a672186.png"
-  },
-  {
     "revision": "f3150fb7c70190dff2d14ad270414e0c",
     "url": "/doroos/static/media/logo.f3150fb7.png"
   },
@@ -52,11 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/navbar-background.8caeb514.png"
   },
   {
-    "revision": "3071b150b3dbccecef5917f9c0758dd9",
-    "url": "/doroos/static/media/option1.3071b150.jpg"
+    "revision": "51e675c23f23657c4b2a8a42ee1f8f19",
+    "url": "/doroos/static/media/option1-resized.51e675c2.jpg"
   },
   {
-    "revision": "2059206a40d09c30fa49bb104e05f648",
-    "url": "/doroos/static/media/option2.2059206a.jpg"
+    "revision": "22a7da5a03de7df998bfab8d3cf9894b",
+    "url": "/doroos/static/media/option2-resized.22a7da5a.jpg"
   }
 ]);

@@ -1,31 +1,30 @@
 {
   "files": {
     "main.css": "/doroos/static/css/main.0a78cab0.chunk.css",
-    "main.js": "/doroos/static/js/main.1c01e4bf.chunk.js",
-    "main.js.map": "/doroos/static/js/main.1c01e4bf.chunk.js.map",
+    "main.js": "/doroos/static/js/main.babe28f0.chunk.js",
+    "main.js.map": "/doroos/static/js/main.babe28f0.chunk.js.map",
     "runtime-main.js": "/doroos/static/js/runtime-main.3feb2ee9.js",
     "runtime-main.js.map": "/doroos/static/js/runtime-main.3feb2ee9.js.map",
     "static/css/2.53159467.chunk.css": "/doroos/static/css/2.53159467.chunk.css",
     "static/js/2.598b0a2a.chunk.js": "/doroos/static/js/2.598b0a2a.chunk.js",
     "static/js/2.598b0a2a.chunk.js.map": "/doroos/static/js/2.598b0a2a.chunk.js.map",
     "index.html": "/doroos/index.html",
-    "precache-manifest.c34519f3a4c5258fa07c40922cc8d2dc.js": "/doroos/precache-manifest.c34519f3a4c5258fa07c40922cc8d2dc.js",
+    "precache-manifest.ca04a10abfd29f2a9fec534e4c9bae8b.js": "/doroos/precache-manifest.ca04a10abfd29f2a9fec534e4c9bae8b.js",
     "service-worker.js": "/doroos/service-worker.js",
     "static/css/2.53159467.chunk.css.map": "/doroos/static/css/2.53159467.chunk.css.map",
     "static/css/main.0a78cab0.chunk.css.map": "/doroos/static/css/main.0a78cab0.chunk.css.map",
     "static/js/2.598b0a2a.chunk.js.LICENSE.txt": "/doroos/static/js/2.598b0a2a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/doroos/static/media/Cairo-Regular.81b37df3.ttf",
     "static/media/CardItem.css": "/doroos/static/media/navbar-background.8caeb514.png",
-    "static/media/homepage-carousel-image-3.png": "/doroos/static/media/homepage-carousel-image-3.4a672186.png",
     "static/media/logo.png": "/doroos/static/media/logo.f3150fb7.png",
-    "static/media/option1.jpg": "/doroos/static/media/option1.3071b150.jpg",
-    "static/media/option2.jpg": "/doroos/static/media/option2.2059206a.jpg"
+    "static/media/option1-resized.jpg": "/doroos/static/media/option1-resized.51e675c2.jpg",
+    "static/media/option2-resized.jpg": "/doroos/static/media/option2-resized.22a7da5a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3feb2ee9.js",
     "static/css/2.53159467.chunk.css",
     "static/js/2.598b0a2a.chunk.js",
     "static/css/main.0a78cab0.chunk.css",
-    "static/js/main.1c01e4bf.chunk.js"
+    "static/js/main.babe28f0.chunk.js"
   ]
 }
