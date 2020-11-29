@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e9c0ff0ca9207421c2711d6c86a5663",
+    "revision": "c4d85923b9556ae875fe91b1b38eb247",
     "url": "/doroos/index.html"
   },
   {
-    "revision": "e57151b59f5a50d38645",
+    "revision": "cba81595f57f0a1530f8",
     "url": "/doroos/static/css/2.6679d2ee.chunk.css"
   },
   {
-    "revision": "89946ac8b0ae39df2c70",
-    "url": "/doroos/static/css/main.af8bf265.chunk.css"
+    "revision": "4c9b4a85c9cc1c3e31eb",
+    "url": "/doroos/static/css/main.7ea1b428.chunk.css"
   },
   {
-    "revision": "e57151b59f5a50d38645",
-    "url": "/doroos/static/js/2.4dec4227.chunk.js"
+    "revision": "cba81595f57f0a1530f8",
+    "url": "/doroos/static/js/2.f9403a0f.chunk.js"
   },
   {
     "revision": "2b0166cf6aeac842f6d93d089e80a048",
-    "url": "/doroos/static/js/2.4dec4227.chunk.js.LICENSE.txt"
+    "url": "/doroos/static/js/2.f9403a0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89946ac8b0ae39df2c70",
-    "url": "/doroos/static/js/main.d6066fb8.chunk.js"
+    "revision": "4c9b4a85c9cc1c3e31eb",
+    "url": "/doroos/static/js/main.bab0869e.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/logo.f3150fb7.png"
   },
   {
-    "revision": "921c8e46c8ada177c24460ba56f375ee",
-    "url": "/doroos/static/media/navbar-2-background.921c8e46.png"
-  },
-  {
     "revision": "8caeb514ba5d201f97260f653319b586",
     "url": "/doroos/static/media/navbar-background.8caeb514.png"
+  },
+  {
+    "revision": "da5e1a707bfe215f4565ee0aa203b290",
+    "url": "/doroos/static/media/online-education-page-background-original.da5e1a70.png"
   },
   {
     "revision": "8cfd43c4dec2c8e74c4eea78ce30923c",
