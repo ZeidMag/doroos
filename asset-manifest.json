@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/doroos/static/css/main.04b47325.chunk.css",
-    "main.js": "/doroos/static/js/main.d7bc621d.chunk.js",
-    "main.js.map": "/doroos/static/js/main.d7bc621d.chunk.js.map",
+    "main.css": "/doroos/static/css/main.e0612dea.chunk.css",
+    "main.js": "/doroos/static/js/main.c211b4f8.chunk.js",
+    "main.js.map": "/doroos/static/js/main.c211b4f8.chunk.js.map",
     "runtime-main.js": "/doroos/static/js/runtime-main.3feb2ee9.js",
     "runtime-main.js.map": "/doroos/static/js/runtime-main.3feb2ee9.js.map",
     "static/css/2.6679d2ee.chunk.css": "/doroos/static/css/2.6679d2ee.chunk.css",
-    "static/js/2.210a16f9.chunk.js": "/doroos/static/js/2.210a16f9.chunk.js",
-    "static/js/2.210a16f9.chunk.js.map": "/doroos/static/js/2.210a16f9.chunk.js.map",
+    "static/js/2.8842a562.chunk.js": "/doroos/static/js/2.8842a562.chunk.js",
+    "static/js/2.8842a562.chunk.js.map": "/doroos/static/js/2.8842a562.chunk.js.map",
     "index.html": "/doroos/index.html",
-    "precache-manifest.f2e027b81b6506a549b8d7f2d7a1f452.js": "/doroos/precache-manifest.f2e027b81b6506a549b8d7f2d7a1f452.js",
+    "precache-manifest.cfca3d6b90436f893e3abf744a84b395.js": "/doroos/precache-manifest.cfca3d6b90436f893e3abf744a84b395.js",
     "service-worker.js": "/doroos/service-worker.js",
     "static/css/2.6679d2ee.chunk.css.map": "/doroos/static/css/2.6679d2ee.chunk.css.map",
-    "static/css/main.04b47325.chunk.css.map": "/doroos/static/css/main.04b47325.chunk.css.map",
-    "static/js/2.210a16f9.chunk.js.LICENSE.txt": "/doroos/static/js/2.210a16f9.chunk.js.LICENSE.txt",
+    "static/css/main.e0612dea.chunk.css.map": "/doroos/static/css/main.e0612dea.chunk.css.map",
+    "static/js/2.8842a562.chunk.js.LICENSE.txt": "/doroos/static/js/2.8842a562.chunk.js.LICENSE.txt",
     "static/media/App.css": "/doroos/static/media/Cairo-Regular.81b37df3.ttf",
     "static/media/CardItem.css": "/doroos/static/media/card-3-background.ba6581b0.png",
+    "static/media/digital-transformation-picture.jpg": "/doroos/static/media/digital-transformation-picture.f2170545.jpg",
     "static/media/logo.png": "/doroos/static/media/logo.f3150fb7.png",
     "static/media/Navbar.css": "/doroos/static/media/navbar-background.8caeb514.png",
     "static/media/ContactUs.css": "/doroos/static/media/online-education-page-background-original.da5e1a70.png",
+    "static/media/online-education-picture.jpg": "/doroos/static/media/online-education-picture.ef079d75.jpg",
     "static/media/option-1.png": "/doroos/static/media/option-1.8cfd43c4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3feb2ee9.js",
     "static/css/2.6679d2ee.chunk.css",
-    "static/js/2.210a16f9.chunk.js",
-    "static/css/main.04b47325.chunk.css",
-    "static/js/main.d7bc621d.chunk.js"
+    "static/js/2.8842a562.chunk.js",
+    "static/css/main.e0612dea.chunk.css",
+    "static/js/main.c211b4f8.chunk.js"
   ]
 }

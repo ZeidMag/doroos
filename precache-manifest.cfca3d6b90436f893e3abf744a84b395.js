@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8b27c862093bf21900e7cbaf4088c3d",
+    "revision": "b425e121fc2e596b06007fd5ed957e02",
     "url": "/doroos/index.html"
   },
   {
-    "revision": "cbcdd3305d9f8b751901",
+    "revision": "d581ccbf070ddfd4ec23",
     "url": "/doroos/static/css/2.6679d2ee.chunk.css"
   },
   {
-    "revision": "d273447dd709be2469e9",
-    "url": "/doroos/static/css/main.04b47325.chunk.css"
+    "revision": "94533da4a7bc7dd89e85",
+    "url": "/doroos/static/css/main.e0612dea.chunk.css"
   },
   {
-    "revision": "cbcdd3305d9f8b751901",
-    "url": "/doroos/static/js/2.210a16f9.chunk.js"
+    "revision": "d581ccbf070ddfd4ec23",
+    "url": "/doroos/static/js/2.8842a562.chunk.js"
   },
   {
     "revision": "2b0166cf6aeac842f6d93d089e80a048",
-    "url": "/doroos/static/js/2.210a16f9.chunk.js.LICENSE.txt"
+    "url": "/doroos/static/js/2.8842a562.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d273447dd709be2469e9",
-    "url": "/doroos/static/js/main.d7bc621d.chunk.js"
+    "revision": "94533da4a7bc7dd89e85",
+    "url": "/doroos/static/js/main.c211b4f8.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/card-3-background.ba6581b0.png"
   },
   {
+    "revision": "f2170545be529fba59bc8bd121397be4",
+    "url": "/doroos/static/media/digital-transformation-picture.f2170545.jpg"
+  },
+  {
     "revision": "f3150fb7c70190dff2d14ad270414e0c",
     "url": "/doroos/static/media/logo.f3150fb7.png"
   },
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da5e1a707bfe215f4565ee0aa203b290",
     "url": "/doroos/static/media/online-education-page-background-original.da5e1a70.png"
+  },
+  {
+    "revision": "ef079d759d09f20f9af1c0fbf76e982a",
+    "url": "/doroos/static/media/online-education-picture.ef079d75.jpg"
   },
   {
     "revision": "8cfd43c4dec2c8e74c4eea78ce30923c",
