@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e490b3c59d21b78b4c6dd6bbef672be1",
+    "revision": "0ed6133ffbb662c5a4f7478aa99559ac",
     "url": "/doroos/index.html"
   },
   {
-    "revision": "d581ccbf070ddfd4ec23",
+    "revision": "cba81595f57f0a1530f8",
     "url": "/doroos/static/css/2.6679d2ee.chunk.css"
   },
   {
-    "revision": "2e49ca8906529b1f45cf",
-    "url": "/doroos/static/css/main.e0612dea.chunk.css"
+    "revision": "e4f99dea870968b25ea5",
+    "url": "/doroos/static/css/main.5a47eebb.chunk.css"
   },
   {
-    "revision": "d581ccbf070ddfd4ec23",
-    "url": "/doroos/static/js/2.8842a562.chunk.js"
+    "revision": "cba81595f57f0a1530f8",
+    "url": "/doroos/static/js/2.f9403a0f.chunk.js"
   },
   {
     "revision": "2b0166cf6aeac842f6d93d089e80a048",
-    "url": "/doroos/static/js/2.8842a562.chunk.js.LICENSE.txt"
+    "url": "/doroos/static/js/2.f9403a0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e49ca8906529b1f45cf",
-    "url": "/doroos/static/js/main.fab809e1.chunk.js"
+    "revision": "e4f99dea870968b25ea5",
+    "url": "/doroos/static/js/main.b4781979.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef079d759d09f20f9af1c0fbf76e982a",
     "url": "/doroos/static/media/online-education-picture.ef079d75.jpg"
+  },
+  {
+    "revision": "40e68a860a5c026042fa4fe1c1787f0e",
+    "url": "/doroos/static/media/option-1-mobile.40e68a86.png"
   },
   {
     "revision": "8cfd43c4dec2c8e74c4eea78ce30923c",
