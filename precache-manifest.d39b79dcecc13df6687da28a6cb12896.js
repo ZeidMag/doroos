@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb42cb49553f047140af24a87ab29339",
+    "revision": "8d44f95f195c4aea2937ccc6f7651b8e",
     "url": "/doroos/index.html"
   },
   {
-    "revision": "cba81595f57f0a1530f8",
+    "revision": "abe8a8ef8273f1ebebda",
     "url": "/doroos/static/css/2.6679d2ee.chunk.css"
   },
   {
-    "revision": "441ae892fcee9fc52154",
-    "url": "/doroos/static/css/main.5a47eebb.chunk.css"
+    "revision": "d37d938fe17b53c443ff",
+    "url": "/doroos/static/css/main.3bd9b6bf.chunk.css"
   },
   {
-    "revision": "cba81595f57f0a1530f8",
-    "url": "/doroos/static/js/2.f9403a0f.chunk.js"
+    "revision": "abe8a8ef8273f1ebebda",
+    "url": "/doroos/static/js/2.dd16a871.chunk.js"
   },
   {
     "revision": "2b0166cf6aeac842f6d93d089e80a048",
-    "url": "/doroos/static/js/2.f9403a0f.chunk.js.LICENSE.txt"
+    "url": "/doroos/static/js/2.dd16a871.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "441ae892fcee9fc52154",
-    "url": "/doroos/static/js/main.7a070761.chunk.js"
+    "revision": "d37d938fe17b53c443ff",
+    "url": "/doroos/static/js/main.bd34f43b.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba6581b08fea263c43445422bd6d46c4",
     "url": "/doroos/static/media/card-3-background.ba6581b0.png"
+  },
+  {
+    "revision": "66dbc99d123cecb68480eb5b55d5a7ea",
+    "url": "/doroos/static/media/contact-us-picture.66dbc99d.jpg"
   },
   {
     "revision": "f2170545be529fba59bc8bd121397be4",
@@ -78,5 +82,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8cfd43c4dec2c8e74c4eea78ce30923c",
     "url": "/doroos/static/media/option-1.8cfd43c4.png"
+  },
+  {
+    "revision": "5faff706b4eac2ade7eaf49c4d9eb105",
+    "url": "/doroos/static/media/training-picture.5faff706.jpg"
   }
 ]);
