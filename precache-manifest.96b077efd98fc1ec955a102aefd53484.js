@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78d5ce0117dfe13d7b146f647ef4192e",
+    "revision": "9484a1b065f4ff269010f7a310ff881a",
     "url": "/doroos/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/css/2.6679d2ee.chunk.css"
   },
   {
-    "revision": "d7b683db619d468f1def",
-    "url": "/doroos/static/css/main.0e784a2e.chunk.css"
+    "revision": "360048b3880997f7e6f4",
+    "url": "/doroos/static/css/main.8cfdeeda.chunk.css"
   },
   {
     "revision": "abe8a8ef8273f1ebebda",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/js/2.dd16a871.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7b683db619d468f1def",
-    "url": "/doroos/static/js/main.42020264.chunk.js"
+    "revision": "360048b3880997f7e6f4",
+    "url": "/doroos/static/js/main.8de55465.chunk.js"
   },
   {
     "revision": "7468190a6f2aabccf048",
@@ -48,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/contact-us-picture.66dbc99d.jpg"
   },
   {
+    "revision": "26365c7b44c1d7efcc8c198cc0eeb82f",
+    "url": "/doroos/static/media/digital-transformation-page-background-lg.26365c7b.jpg"
+  },
+  {
     "revision": "f2170545be529fba59bc8bd121397be4",
     "url": "/doroos/static/media/digital-transformation-picture.f2170545.jpg"
   },
@@ -56,20 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/media/logo.f3150fb7.png"
   },
   {
-    "revision": "b81493d067bb3cf6ec9f4878ddfbd76b",
-    "url": "/doroos/static/media/navbar-2-background.b81493d0.png"
+    "revision": "46ef6d9cac5e5a8973394af4a0709a25",
+    "url": "/doroos/static/media/navbar-2-background.46ef6d9c.jpg"
   },
   {
-    "revision": "11a13fc0148299301eb19396f744e79a",
-    "url": "/doroos/static/media/navbar-3-background.11a13fc0.png"
+    "revision": "4e560fdad3d3e2fe452fafbbffe9f111",
+    "url": "/doroos/static/media/navbar-3-background.4e560fda.jpg"
   },
   {
-    "revision": "8caeb514ba5d201f97260f653319b586",
-    "url": "/doroos/static/media/navbar-background.8caeb514.png"
+    "revision": "acde57be3b927578b44f1c5080b9a77a",
+    "url": "/doroos/static/media/navbar-background.acde57be.jpg"
   },
   {
     "revision": "da5e1a707bfe215f4565ee0aa203b290",
-    "url": "/doroos/static/media/online-education-page-background-original.da5e1a70.png"
+    "url": "/doroos/static/media/online-education-page-background-lg.da5e1a70.png"
   },
   {
     "revision": "ef079d759d09f20f9af1c0fbf76e982a",
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8cfd43c4dec2c8e74c4eea78ce30923c",
     "url": "/doroos/static/media/option-1.8cfd43c4.png"
+  },
+  {
+    "revision": "f2047c091cde641bd40a718b2d51794a",
+    "url": "/doroos/static/media/training-page-background-lg.f2047c09.png"
   },
   {
     "revision": "5faff706b4eac2ade7eaf49c4d9eb105",
