@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doroos/static/css/main.abfca5f3.chunk.css",
+    "main.css": "/doroos/static/css/main.9eae9313.chunk.css",
     "main.js": "/doroos/static/js/main.398ff9b4.chunk.js",
     "main.js.map": "/doroos/static/js/main.398ff9b4.chunk.js.map",
     "runtime-main.js": "/doroos/static/js/runtime-main.3feb2ee9.js",
@@ -9,29 +9,29 @@
     "static/js/2.dd16a871.chunk.js": "/doroos/static/js/2.dd16a871.chunk.js",
     "static/js/2.dd16a871.chunk.js.map": "/doroos/static/js/2.dd16a871.chunk.js.map",
     "index.html": "/doroos/index.html",
-    "precache-manifest.e3e1720817a790d4d15d0ad1b66f55ec.js": "/doroos/precache-manifest.e3e1720817a790d4d15d0ad1b66f55ec.js",
+    "precache-manifest.2fc5c84ae76386541d2ccfb8d99cc6c1.js": "/doroos/precache-manifest.2fc5c84ae76386541d2ccfb8d99cc6c1.js",
     "service-worker.js": "/doroos/service-worker.js",
     "static/css/2.6679d2ee.chunk.css.map": "/doroos/static/css/2.6679d2ee.chunk.css.map",
-    "static/css/main.abfca5f3.chunk.css.map": "/doroos/static/css/main.abfca5f3.chunk.css.map",
+    "static/css/main.9eae9313.chunk.css.map": "/doroos/static/css/main.9eae9313.chunk.css.map",
     "static/js/2.dd16a871.chunk.js.LICENSE.txt": "/doroos/static/js/2.dd16a871.chunk.js.LICENSE.txt",
     "static/media/App.css": "/doroos/static/media/Cairo-Regular.81b37df3.ttf",
     "static/media/CardItem.css": "/doroos/static/media/card-3-background.ba6581b0.png",
     "static/media/contact-us-picture.jpg": "/doroos/static/media/contact-us-picture.66dbc99d.jpg",
-    "static/media/DigitalTransformation.css": "/doroos/static/media/digital-transformation-page-background-lg.26365c7b.jpg",
+    "static/media/DigitalTransformation.css": "/doroos/static/media/digital-transformation-page-background-strip.24fd8eac.jpg",
     "static/media/digital-transformation-picture.jpg": "/doroos/static/media/digital-transformation-picture.f2170545.jpg",
     "static/media/logo.png": "/doroos/static/media/logo.f3150fb7.png",
     "static/media/Navbar.css": "/doroos/static/media/navbar-background.cbd7d7cf.jpg",
-    "static/media/ContactUs.css": "/doroos/static/media/online-education-page-background-lg.da5e1a70.png",
+    "static/media/ContactUs.css": "/doroos/static/media/online-education-page-background-strip.8b1441e3.jpg",
     "static/media/online-education-picture.jpg": "/doroos/static/media/online-education-picture.ef079d75.jpg",
     "static/media/Carousel.css": "/doroos/static/media/option-1.8cfd43c4.png",
-    "static/media/Training.css": "/doroos/static/media/training-page-background-lg.f2047c09.png",
+    "static/media/Training.css": "/doroos/static/media/training-page-background-strip.1b7ec784.jpg",
     "static/media/training-picture.jpg": "/doroos/static/media/training-picture.5faff706.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3feb2ee9.js",
     "static/css/2.6679d2ee.chunk.css",
     "static/js/2.dd16a871.chunk.js",
-    "static/css/main.abfca5f3.chunk.css",
+    "static/css/main.9eae9313.chunk.css",
     "static/js/main.398ff9b4.chunk.js"
   ]
 }
