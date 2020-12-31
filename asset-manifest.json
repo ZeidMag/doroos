@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/doroos/static/css/main.3a92f879.chunk.css",
-    "main.js": "/doroos/static/js/main.f63ea146.chunk.js",
-    "main.js.map": "/doroos/static/js/main.f63ea146.chunk.js.map",
+    "main.css": "/doroos/static/css/main.90f6a30c.chunk.css",
+    "main.js": "/doroos/static/js/main.98a45f4d.chunk.js",
+    "main.js.map": "/doroos/static/js/main.98a45f4d.chunk.js.map",
     "runtime-main.js": "/doroos/static/js/runtime-main.3feb2ee9.js",
     "runtime-main.js.map": "/doroos/static/js/runtime-main.3feb2ee9.js.map",
     "static/css/2.6679d2ee.chunk.css": "/doroos/static/css/2.6679d2ee.chunk.css",
     "static/js/2.dd16a871.chunk.js": "/doroos/static/js/2.dd16a871.chunk.js",
     "static/js/2.dd16a871.chunk.js.map": "/doroos/static/js/2.dd16a871.chunk.js.map",
     "index.html": "/doroos/index.html",
-    "precache-manifest.c2647cc9a724dd7035e3d2cffcd5147c.js": "/doroos/precache-manifest.c2647cc9a724dd7035e3d2cffcd5147c.js",
+    "precache-manifest.55fb8fc99569931c8065ce21dbe47b2c.js": "/doroos/precache-manifest.55fb8fc99569931c8065ce21dbe47b2c.js",
     "service-worker.js": "/doroos/service-worker.js",
     "static/css/2.6679d2ee.chunk.css.map": "/doroos/static/css/2.6679d2ee.chunk.css.map",
-    "static/css/main.3a92f879.chunk.css.map": "/doroos/static/css/main.3a92f879.chunk.css.map",
+    "static/css/main.90f6a30c.chunk.css.map": "/doroos/static/css/main.90f6a30c.chunk.css.map",
     "static/js/2.dd16a871.chunk.js.LICENSE.txt": "/doroos/static/js/2.dd16a871.chunk.js.LICENSE.txt",
     "static/media/App.css": "/doroos/static/media/Cairo-Regular.81b37df3.ttf",
     "static/media/CardItem.css": "/doroos/static/media/card-3-background.ba6581b0.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.3feb2ee9.js",
     "static/css/2.6679d2ee.chunk.css",
     "static/js/2.dd16a871.chunk.js",
-    "static/css/main.3a92f879.chunk.css",
-    "static/js/main.f63ea146.chunk.js"
+    "static/css/main.90f6a30c.chunk.css",
+    "static/js/main.98a45f4d.chunk.js"
   ]
 }
