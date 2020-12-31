@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doroos/static/css/main.1085432e.chunk.css",
+    "main.css": "/doroos/static/css/main.b128c025.chunk.css",
     "main.js": "/doroos/static/js/main.f63ea146.chunk.js",
     "main.js.map": "/doroos/static/js/main.f63ea146.chunk.js.map",
     "runtime-main.js": "/doroos/static/js/runtime-main.3feb2ee9.js",
@@ -9,10 +9,10 @@
     "static/js/2.dd16a871.chunk.js": "/doroos/static/js/2.dd16a871.chunk.js",
     "static/js/2.dd16a871.chunk.js.map": "/doroos/static/js/2.dd16a871.chunk.js.map",
     "index.html": "/doroos/index.html",
-    "precache-manifest.00c17755bd5595d6c4e762ab41b5e2c1.js": "/doroos/precache-manifest.00c17755bd5595d6c4e762ab41b5e2c1.js",
+    "precache-manifest.feda1bc7c9a4eba09d8e108388570891.js": "/doroos/precache-manifest.feda1bc7c9a4eba09d8e108388570891.js",
     "service-worker.js": "/doroos/service-worker.js",
     "static/css/2.6679d2ee.chunk.css.map": "/doroos/static/css/2.6679d2ee.chunk.css.map",
-    "static/css/main.1085432e.chunk.css.map": "/doroos/static/css/main.1085432e.chunk.css.map",
+    "static/css/main.b128c025.chunk.css.map": "/doroos/static/css/main.b128c025.chunk.css.map",
     "static/js/2.dd16a871.chunk.js.LICENSE.txt": "/doroos/static/js/2.dd16a871.chunk.js.LICENSE.txt",
     "static/media/App.css": "/doroos/static/media/Cairo-Regular.81b37df3.ttf",
     "static/media/CardItem.css": "/doroos/static/media/card-3-background.ba6581b0.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.3feb2ee9.js",
     "static/css/2.6679d2ee.chunk.css",
     "static/js/2.dd16a871.chunk.js",
-    "static/css/main.1085432e.chunk.css",
+    "static/css/main.b128c025.chunk.css",
     "static/js/main.f63ea146.chunk.js"
   ]
 }
