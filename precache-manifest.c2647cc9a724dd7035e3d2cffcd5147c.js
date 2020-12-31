@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69ae5d05411354fdda9bdf17951ce3a9",
+    "revision": "cc225fcfdbce0aa51b5795908f2ad0ac",
     "url": "/doroos/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/css/2.6679d2ee.chunk.css"
   },
   {
-    "revision": "27b3d01bcb237b3f56b8",
-    "url": "/doroos/static/css/main.fa479fee.chunk.css"
+    "revision": "3e460f2c7f68ab64c52c",
+    "url": "/doroos/static/css/main.3a92f879.chunk.css"
   },
   {
     "revision": "abe8a8ef8273f1ebebda",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doroos/static/js/2.dd16a871.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27b3d01bcb237b3f56b8",
+    "revision": "3e460f2c7f68ab64c52c",
     "url": "/doroos/static/js/main.f63ea146.chunk.js"
   },
   {
